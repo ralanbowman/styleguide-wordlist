@@ -4,5 +4,5 @@ As the lone technical writer at a previous employer, I was on my own when it cam
 
 Starting with this foundation, I created an in-house style guide and word list that could be used by anyone in the company to make sure that any content we created: user guides, release notes, support ticket replies, website copy, JIRA issues, or Confluence pages, all had a consistent style and look. 
 
-* [Style Guide and Word List](docs/styleguid-wordlist.md "Style Guide and Word List")   
+* [Style Guide and Word List](docs/styleguide-wordlist.md "Style Guide and Word List")   
   
